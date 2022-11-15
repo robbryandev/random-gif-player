@@ -47,6 +47,7 @@
     "workbox-webpack-plugin": "6.5.4"
   },
   "dependencies": {
+    "@giphy/js-fetch-api": "^4.4.0",
     "babel-jest": "^29.3.0",
     "bootstrap": "5.2.2",
     "css-loader": "6.7.1",
